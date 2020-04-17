@@ -1,5 +1,5 @@
 # Julia project
 
-Optimalization methods.
+Optimization methods.
 
 Written in Julia 1.4.0
