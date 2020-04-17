@@ -1,4 +1,4 @@
-# Przykładowy projekt w Julii
+# Julia project
 
 Optimalization methods.
 
