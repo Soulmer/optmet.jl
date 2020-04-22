@@ -17,7 +17,7 @@ function minimum_nr(f, x, eps = 1e-5)
 		x = x - h
 		fx = f(x)
 		i = i + 1
-		println("x: ", x, "   f(x): ", fx, "   step: ", h, "   iteration: ", i)
+		#println("x: ", x, "   f(x): ", fx, "   step: ", h, "   iteration: ", i)
 	end
 	return fx, x
 end
